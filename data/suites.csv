@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","246","Создание задачи","test","2026-10-07","passed","2026-10-07","","add_task_test","",""
+"","740","Редактирование задачи","test","2026-10-07","passed","2026-10-07","","edit_task_test","",""
+"","274","Создание задачи с эмоджи названием","test","2026-10-07","passed","2026-10-07","","add_task_emoji_test","",""
+"","242","Получение списка задач","test","2026-10-07","passed","2026-10-07","","get_tasks_test","",""
+"","489","Удаление задачи","test","2026-10-07","passed","2026-10-07","","delete_task_test","",""
